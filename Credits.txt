@@ -1,0 +1,13 @@
+
+CREDITS
+
+1)	WORKAROUND TO PRESERVE CASE OF ENUMS BELOW
+	Ulli's Enumeration Spelling. txtCodeId=42088
+
+2)	PLAY .WAV FILES WITHOUT API (USING MULTIMEDIA CONTROL)
+	Matt Smith
+
+3)	CERTAIN EQUATIONS TO RENDER THE WAVE SAMPLES
+	Ulli's Soundmaker Example. txtCodeId=64845
+	WhiteNoise,SinePlusHarmonics,Sawtooth, SquareWave
+        
